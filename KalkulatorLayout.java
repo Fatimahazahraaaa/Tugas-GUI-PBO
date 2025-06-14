@@ -10,7 +10,7 @@ import java.awt.event.*;
 
 /**
  *
- * @author ACER
+ * @author LENOVO
  */
 public class KalkulatorLayout extends JFrame {
      private JTextField textField;
